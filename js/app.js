@@ -5,6 +5,8 @@
  */
 (function () {
 
+    'use strict';
+
     var tableMatrix = [
         ["cellHead1", "cellHead2", "cellHead3", "cellHead4"],
         ["rowData1", "rowData1", "rowData1", "rowData1"],
